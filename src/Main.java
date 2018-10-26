@@ -12,8 +12,8 @@ public class Main {
     }
 
     public static void subtractIntNumbers(int a, int b) {
-        System.out.println("Value of a is:" + a);
-        System.out.println("Value of b is:" + b);
+        System.out.println("Value of a is=" + a);
+        System.out.println("Value of b is=" + b);
         System.out.println("Subtraction of 2 numbers is" + (a - b));
     }
 

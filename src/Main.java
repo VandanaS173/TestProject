@@ -11,4 +11,7 @@ public class Main {
         System.out.println("multiplication for two number:" + (n1 * n2));
     }
 
+    public static void subtractIntNumbers(int number1, int nuber2) {
+        System.out.println("Subtraction of 2 numbers is" + (number1 - number2));
+    }
 }

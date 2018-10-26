@@ -2,13 +2,13 @@ public class Main {
     public static void main(String a[]) {
     }
 
-    void add(int a, int b) {
-        System.out.println("Addition of two number is = " + a + b;);
+    void add(int number1, int nuber2) {
+        System.out.println("Addition of two number is = " (number1 + number2));
 
     }
 
-    static void multiplication(int n1, int n2) {
-        System.out.println("multiplication for two number:" + (n1 * n2));
+    static void multiplication(int number1, int nuber2) {
+        System.out.println("multiplication for two number:" + (number1 * number2));
     }
 
     public static void subtractIntNumbers(int number1, int nuber2) {
